@@ -24,8 +24,8 @@ description: Tardy Musings of a 'Boo Radley'
 # List of links in the navigation bar
 navbar-links:
   Categories:
-    - Non-Fiction: "{{ site.url }}/tags/Non-Fiction/"
-    - Random: "{{ site.url }}/tags/Random/"
+    - Non-Fiction: "http://tardymusings.github.io/tags/Non-Fiction/"
+    - Random: "http://tardymusings.github.io/tags/Random/"
   About: "about"
 
 
