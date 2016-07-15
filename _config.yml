@@ -23,6 +23,11 @@ description: Tardy Musings of a 'Boo Radley'
 
 # List of links in the navigation bar
 navbar-links:
+  Fiction: "http://tardymusings.github.io/tags/Fiction/"
+  Non-Fiction: "http://tardymusings.github.io/tags/Non-Fiction/"
+  Around Islam: "http://tardymusings.github.io/tags/Aroun_Islam/"
+  অনুবাদ: "http://tardymusings.github.io/tags/অনুবাদ/"
+  Random: "http://tardymusings.github.io/tags/Random/"
   Categories:
     - Non-Fiction: "http://tardymusings.github.io/tags/Non-Fiction/"
     - Random: "http://tardymusings.github.io/tags/Random/"
