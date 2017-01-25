@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animal Farm by George H Orwell
+title: Animal Farm by George Orwell
 tag: Book Excerpts
 ---
 পশুদের দেশ।
