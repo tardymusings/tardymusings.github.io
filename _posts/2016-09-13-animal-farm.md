@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Animal Farm by George Orwell
-tag: Book Excerpts
+tag: Fiction
 ---
 পশুদের দেশ।
 
