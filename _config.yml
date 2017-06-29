@@ -17,7 +17,7 @@ baseurl: ""
 title: Tardy Musings
 
 # Short description of your site
-description: Tardy Musings of a 'Boo Radley'
+description: মাথার ভেতর দুনিয়াটাকে নেড়ে চেড়ে দেখা
 
 # --- Navigation bar options --- #
 
@@ -25,11 +25,7 @@ description: Tardy Musings of a 'Boo Radley'
 navbar-links:
   Fiction: "http://tardymusings.github.io/tags/Fiction/"
   Non-Fiction: "http://tardymusings.github.io/tags/Non-Fiction/"
-  Around Islam: "http://tardymusings.github.io/tags/Around_Islam/"
-  অনুবাদ: "http://tardymusings.github.io/tags/অনুবাদ/"
-  Book Excerpts: "http://tardymusings.github.io/tags/Book-Excerpts/"
-  Life Hacks: "http://tardymusings.github.io/tags/Life-Hacks/"
-  Wild: "http://tardymusings.github.io/tags/Wild/"
+  Reflections: "http://tardymusings.github.io/tags/Reflections/"
   About: "about"
 
 

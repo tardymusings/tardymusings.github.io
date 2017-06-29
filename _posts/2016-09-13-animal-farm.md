@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animal Farm by George Orwell
+title: Musings on Animal Farm by George Orwell
 tag: Fiction
 ---
 পশুদের দেশ।

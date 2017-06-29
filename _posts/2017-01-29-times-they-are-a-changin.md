@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The times they are a-changin’
-tag: Around Islam
+tag: Reflections
 ---
 
 >“We’re finding ourselves on the front line, we don’t want to be there.”
