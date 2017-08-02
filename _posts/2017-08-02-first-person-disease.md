@@ -22,7 +22,7 @@ tag: Reflections
 
 - *আজকে অমুক জায়গায় গিয়েছিলাম। দেখলাম একজন তমুক করছে। আমি ভাবলাম মুসলিম হয়েও অমুক কীভাবে তমুক করতে পারে। আমিও তো অমুকের মতোই কিন্তু আমি তো তমুক করার কথা ভাবতেও পারি না...*
 
-- *আমি কখনোই আমার সন্তানকে অমুক করতে দেব না**
+- *আমি কখনোই আমার সন্তানকে অমুক শেখাই না*
 
 -  *সবার বিয়েতে অমুক তমুক হয় কিন্তু আমার বিয়েতে অমুকও হয়নি তমুকও হয়নি। আর এটাই তো ইসলামের নিয়ম...*  
 
@@ -35,10 +35,11 @@ tag: Reflections
 মূলত, প্রতিটি আদর্শিক বাণী প্রচারের জন্য উদাহরণের প্রয়োজন হলে, প্রত্যেকটির হাজারো উদাহরণ প্রকৃত গুণীজনদের জীবনে খুঁজে পাওয়া খুবই সহজ।  আপনি স্পেশাল কেউ নন। আপনার কোনো মত ঠিক হলে অনেক মত ভুলও হয়। আপনার জীবনেও ব্যর্থতা আছে, আছে সীমাবদ্ধতা আর ভুল সিদ্ধান্ত। তাই সচেতনভাবে আমিকে বক্তব্য থেকে ছেটে ফেলার চেষ্টা করা খুব জরুরি। নাহলে অবচেতনেই আমিত্বের ব্যাধি অন্তরে পচন ধরাবে। তখন যাকেই দেখবেন, যাই করতে দেখবেন, শুধু মনে হবে, **...আমি তার চেয়ে উত্তম...** [আল-আ'রাফ-১২]
 
 
-Demonic hatred is to see nothing of yourself in the other; virtuous hatred is to see the worst of yourself in the other.
+>Demonic hatred is to see nothing of yourself in the other; virtuous hatred is to see the worst of yourself in the other.
 
-The drama of the world is not the clash between Muslim and Pagan, or Tradition and Revolt, but between Love of God and Love of Self.
 
-The world is most damaged by those who have the highest opinion of themselves.
+>The drama of the world is not the clash between Muslim and Pagan, or Tradition and Revolt, but between Love of God and Love of Self.
 
-Great art is God looking at you. Mediocre art is you looking at God. Demonic art is you looking at yourself alone.
+>The world is most damaged by those who have the highest opinion of themselves.
+
+>Great art is God looking at you. Mediocre art is you looking at God. Demonic art is you looking at yourself alone.
